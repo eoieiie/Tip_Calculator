@@ -1,2 +1,2 @@
 # Tip_Calculator
-first android app
+first android app which can calculate tip amount
